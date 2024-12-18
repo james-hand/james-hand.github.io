@@ -23,15 +23,14 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "James Hand"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Ph.D. Candidate studying Multi-Agent Systems and Biologically Inspired Design"
   location         : "Daytona Beach, Florida"
   employer         : "Embry-Riddle Aeronautical University"
-  uri              : # URL
   email            : "handj6@my.erau.edu" 
 
   # Academic websites
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4507-3081"
   
 
 
